@@ -3,7 +3,7 @@
 
 A React-based weather application that provides current weather information for any location.
 
-![Alt text]([https://res.cloudinary.com/davovg4nm/image/upload/f_auto,q_auto/suujb1nzgxdaf5u2lmuj]
+![App image](https://res.cloudinary.com/davovg4nm/image/upload/f_auto,q_auto/suujb1nzgxdaf5u2lmuj)
 
 
 ## Features
