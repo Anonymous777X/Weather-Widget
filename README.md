@@ -3,6 +3,8 @@
 
 A React-based weather application that provides current weather information for any location.
 
+https://res.cloudinary.com/davovg4nm/image/upload/f_auto,q_auto/suujb1nzgxdaf5u2lmuj
+
 ## Features
 - Search for weather by city name
 - Display current weather conditions
